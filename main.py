@@ -1,10 +1,7 @@
 from typing import List
 
 from langchain.llms import CTransformers
-from langchain.schema import HumanMessage
-from langchain.prompts import PromptTemplate
 from langchain.prompts.chat import ChatPromptTemplate
-from langchain.schema import StrOutputParser
 from langchain.schema import BaseOutputParser
 
 
