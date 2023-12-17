@@ -7,4 +7,8 @@ langchain 학습
 # 실행 방법
 ```bash
 pip install -r requirements.txt
+python main.py
 ```
+
+# 참고자료
+* https://python.langchain.com/docs/get_started/quickstart#composing-with-lcel
