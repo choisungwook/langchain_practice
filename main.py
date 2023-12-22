@@ -1,4 +1,3 @@
-
 from langchain.llms import CTransformers
 from langchain.memory import ConversationBufferMemory
 from langchain.schema import SystemMessage
