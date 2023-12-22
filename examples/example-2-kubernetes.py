@@ -31,6 +31,6 @@ chain = {"question": RunnablePassthrough()} | prompt | model | output_parser
 
 
 # ask to prompt
-# question_1 = "generate kubernetes nginx pod and give me to yaml format. omit explanation and just give me yaml."
-question_2 = "generate kubernetes nginx pod with configmap that has nginx.conf"
+# question_1 = "generate kubernetes nginx pod and give me to yaml format"
+question_2 = "generate kubernetes nginx pod and configmap that has nginx.conf. nginx pod use nginx.conf configmap"
 print(chain.invoke(question_2))
