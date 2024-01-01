@@ -10,7 +10,7 @@ langchain 학습
 pip install -r requirements.txt
 
 # llama cpp 설치
-CMAKE_ARGS="-DLLAMA_METAL=on" FORCE_CMAKE=1 pip install llama-cpp-python
+# CMAKE_ARGS="-DLLAMA_METAL=on" FORCE_CMAKE=1 pip install llama-cpp-python
 
 cd examples/
 python {예제파일}.py
