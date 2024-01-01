@@ -11,3 +11,4 @@
 * kubernetes documents to PDF: https://github.com/dohsimpson/kubernetes-doc-pdf
 * 모두의 AI 유투브 채널
 * https://youtu.be/NYSWn1ipbgg?si=oZdGpNcQ7Sf8N1pX
+* https://velog.io/@ellisa20106/langchain%EC%97%90%EC%84%9C-BGE-%EB%AA%A8%EB%8D%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0embedding-%EC%9E%84%EB%B2%A0%EB%94%A9
