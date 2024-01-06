@@ -2,7 +2,7 @@
 langchain 학습
 
 # 준비
-* python 3.11
+* python 3.11.4
 * ubuntu 20.04 LTS 이상
 * LLaMA AI모델 다운로드: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF
 

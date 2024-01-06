@@ -2,6 +2,7 @@
 * [helloworld](./example-1-helloworld.py)
 * [kubernetes chatbot](./example-2-kubernetes.py)
 * [chunk](./example-chunk.ipynb)
+* [embedding](./example-embeding.ipynb)
 
 # 참고자료
 * https://python.langchain.com/docs/get_started/quickstart#composing-with-lcel
