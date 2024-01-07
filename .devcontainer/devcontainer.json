@@ -6,12 +6,10 @@
 		"vscode": {
 			"settings": {
 				"python.defaultInterpreterPath": "/usr/local/bin/python",
-				"python.linting.pylintEnabled": true,
 				"python.formatting.autopep8Path": "/usr/local/py-utils/bin/autopep8",
 				"python.formatting.blackPath": "/usr/local/py-utils/bin/black",
-				"python.formatting.yapfPath": "/usr/local/py-utils/bin/yapf",
+				"python.formatting.yapfPath": "/usr/local/py-utils/bin/yapf"
 			},
-
 			"extensions": [
 				"ms-python.python",
 				"ms-python.vscode-pylance",

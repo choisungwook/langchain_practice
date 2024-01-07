@@ -1,8 +1,9 @@
 # 예제 목차
-* [helloworld](./example-1-helloworld.py)
+* 기초 예제
+  * [chunk](./example-chunk.ipynb)
+  * [embedding](./example-embeding.ipynb)
+  * [rag](./example-rag.ipynb)
 * [kubernetes chatbot](./example-2-kubernetes.py)
-* [chunk](./example-chunk.ipynb)
-* [embedding](./example-embeding.ipynb)
 
 # 참고자료
 * https://python.langchain.com/docs/get_started/quickstart#composing-with-lcel
@@ -17,3 +18,4 @@
 * https://dev.to/eteimz/understanding-langchains-recursivecharactertextsplitter-2846
 * chunk pdf: https://www.stakeholdermap.com/project-templates/sample-statement-of-work.pdf
 * https://kmaster.tistory.com/180
+* https://breezymind.com/llamacpp-embedding-news/
