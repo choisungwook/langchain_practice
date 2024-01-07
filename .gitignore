@@ -161,3 +161,6 @@ cython_debug/
 
 # AI model
 *.gguf
+
+# .DS_Store
+.DS_Store
